@@ -1,7 +1,7 @@
 #!/bin/bash
 TYPE="retro-terminal"
-THEME="white.css"
-DOMAIN="tmhtower.com"
+THEME="green.css"
+DOMAIN="theme-park.dev"
 SCHEME="https"
 ADD_JS="true"
 JS="custom_text_header.js"
